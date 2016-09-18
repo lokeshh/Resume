@@ -83,6 +83,13 @@ ItalicFont = Fontin-Italic.otf
     \textsc{Github:}    & github.com/lokeshh\\
 \end{tabular}
 
+\section{Objective}
+Get selected as research intern in projects involving scientific computation. Major interests involves data science, machine learning, artificial intelligence and developing Software As A Service applications.
+
+Proficient in doing Data Analysis in Python, mastered Ruby on Rails framework for SaaS app development, Data Structures and Algorithms.
+
+Have experience working with Big Data using Apache Spark, R for data analysis, MATLAB.
+
 %Section: Education
 \section{Education}
 \begin{tabular}{r|p{11cm}}
@@ -119,14 +126,24 @@ ItalicFont = Fontin-Italic.otf
 \begin{tabular}{r|p{11cm}}
  \emph{Programming Languages}:&\\
  -Proficient:& Ruby, Python \\
- -Intermediate:& C, C++, R, Java \\
+ -Intermediate:& C, C++, R, Java, MATLAB \\
  -Others:& my\textsc{sql}, \textsc{html}, CSS, {\fb \LaTeX}\setmainfont[SmallCapsFont=Fontin-SmallCaps.otf]{Fontin.otf}\\
 Technologies: & Ruby on Rails, Data Analysis with Python, Machine Learning with Python, Data Analysis with Ruby, R, Apache Spark\\
 Platform: & Linux, Windows, Amazon Web Services
 \end{tabular}
 
+\section{Some notable Projects}
+\begin{tabular}{r|p{11cm}}
+  \href{https://github.com/lokeshh/songpy}{Songpy}: & An app to download a song by mentioning just its name\\
+  \href{https://github.com/lokeshh/colab}{COLab}: & A Rails app I developed to collect assignments in our laboratory and submit it to the instructor's Google Drive folder.\\
+  \href{https://github.com/lokeshh/checkers}{Checkers}: & A checkers game I built on OpenGL C/C++.
+\end{tabular}
+
 \section{Interests and Activities}
-Technology, Open-Source, Programming\\
-Paradoxes in Decision Making, Psychoanalysis, Behavioural Finance\\
-Football, Travelling
+\href{https://gist.github.com/lokeshh/3d1da1104bba06708b65}{MOOCs completed successfully}\\
+Contributor at various open source projects\\
+Member of \href{glug.nith.ac.in}{GLUG-NITH}\\
+Football, Karate, Running, Trekking
+
+\newpage
 
